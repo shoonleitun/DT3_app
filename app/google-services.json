@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "923701758796",
+    "firebase_url": "https://mobilebankingapp-22a13.firebaseio.com",
+    "project_id": "mobilebankingapp-22a13",
+    "storage_bucket": "mobilebankingapp-22a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923701758796:android:043439c335beb3d5",
+        "android_client_info": {
+          "package_name": "com.demo.bankingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923701758796-8ina4q7osa474mhp6fsvvkmr1omi5cej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUmHsu20YmNqrurzrF8lFJH7QAGoAUdPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

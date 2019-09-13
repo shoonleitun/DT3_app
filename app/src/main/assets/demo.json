@@ -1,0 +1,32 @@
+{
+  "Bank": [
+    {
+      "BankName": "State Bank Of India",
+      "ATM": [
+        {
+          "atmname": "State Bank Of India ATM",
+          "address": "SVNIT Campus, Ichchanath, Surat",
+          "lat": "21.1671514",
+          "lng": "72.7860439"
+        },
+        {
+          "atmname": "State Bank Of India ATM",
+          "address": "SVNIT Campus, Ichchanath, Surat",
+          "lat": "21.1953699",
+          "lng": "72.8188852"
+        }
+      ]
+    },
+    {
+      "BankName": "Yes Bank",
+      "ATM": [
+        {
+          "atmname": "Kotak Mahindra Bank ATM",
+          "address": "K G Point, Ghod Dod Road, Near Ganga Palace, Surat",
+          "lat": "21.1740846",
+          "lng": "72.7991785"
+        }
+      ]
+    }
+  ]
+}
